@@ -39,7 +39,7 @@ A Python project that allows you to hide secret messages in images using stegano
    
         http://127.0.0.1:5000/
 
-###Usage
+### Usage
 Hide a Message:
 
 Upload an image.
@@ -54,19 +54,19 @@ Upload an image with a hidden message.
 
 Click "Extract Message" to view the decrypted message.
 
-###Screenshots
+### Screenshots
 
 ![image](https://github.com/user-attachments/assets/27e81f78-50bd-4f1b-83ea-421545424448)
 
-#License
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-#Acknowledgments
+# Acknowledgments
 Thanks to the Flask, Pillow, and Cryptography communities for their amazing libraries.
 
 Inspired by the concept of steganography and its applications in secure communication.
 
-#Contact
+# Contact
 For any questions or feedback, feel free to reach out:
 
 VIGHNESH MADANKAR: vighneshmadankar12345(at)gmail(dot)com
